@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name='apns2',
+    name='apns2-py3',
     version='0.7.2',
     packages=['apns2'],
     install_requires=[
