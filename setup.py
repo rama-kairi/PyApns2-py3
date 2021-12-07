@@ -17,10 +17,10 @@ setup(
             'pytest',
         ],
     },
-    url='https://github.com/Pr0Ger/PyAPNs2',
+    url='https://github.com/ramananda-kairi/PyApns2-py3',
     license='MIT',
-    author='Sergey Petrov',
-    author_email='me@pr0ger.prg',
+    author='Ramananda Kairi',
+    author_email='ramananda.kairi@gmail.com',
     classifiers=[
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: MIT License',
